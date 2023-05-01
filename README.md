@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mujtaba Azhar</h1>
 <h3 align="center">Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/3SBK.mp4">
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/3SBK.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujtabaazhar&label=Profile%20views&color=0e75b6&style=flat" alt="mujtabaazhar" /> </p>
 
