@@ -1,3 +1,4 @@
+![logo](https://github.com/MujtabaAzhar/MujtabaAzhar/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Mujtaba Azhar</h1>
 <h3 align="center">Developer</h3>
 
