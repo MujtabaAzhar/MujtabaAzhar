@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujtabaazhar&label=Profile%20views&color=0e75b6&style=flat" alt="mujtabaazhar" /> </p>
 
-- 🔭 I’m currently working on **Digital Learning System**
+- 🔭 I’m currently working at **Speed Track Company**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m **Full Stack Web Developer** Since 2022
 
 - 📫 How to reach me **Mujtabaazhar110@gmail.com**
 
